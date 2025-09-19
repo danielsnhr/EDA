@@ -1,0 +1,50 @@
+# SUPERSTORE CEO ANALYSIS - REQUIREMENTS.TXT
+# ============================================
+# Dependencies for comprehensive EDA analysis
+# Compatible with Python 3.8+ environments
+
+# Core Data Analysis Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# Statistical Analysis
+scipy>=1.9.0
+
+# Jupyter Notebook Support (if running in notebook)
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.15.0
+
+# Optional: Enhanced Jupyter Experience
+jupyterlab>=3.4.0
+
+# Data Import/Export Support
+openpyxl>=3.0.10          # For Excel file support
+xlrd>=2.0.0               # For older Excel formats
+
+# Optional: Advanced Analytics (if needed)
+scikit-learn>=1.1.0       # For machine learning features
+statsmodels>=0.13.0       # For advanced statistical analysis
+
+# Utility Libraries
+datetime                  # Built-in Python module
+warnings                  # Built-in Python module
+pathlib                   # Built-in Python module (Python 3.4+)
+os                        # Built-in Python module
+
+# Optional: Performance Optimization
+numba>=0.56.0            # For faster numerical computations (optional)
+
+# Optional: Interactive Widgets (for Jupyter)
+ipywidgets>=7.7.0        # For interactive dashboard elements
+
+# Version Notes:
+# - All versions are minimum requirements
+# - Higher versions are generally compatible
+# - For production environments, consider pinning to specific versions
+# - Test in development environment before deploying
