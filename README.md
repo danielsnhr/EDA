@@ -1,5 +1,5 @@
 # EDA
-This project is an Exploratory Data Analysis(EDA) of the Superstore Sales Dataset from kaggle https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
+This project is an Exploratory Data Analysis(EDA) of the Superstore Sales Dataset from kaggle https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data.  
 It includes data loading(with fallback parsing from malformed CSVs), cleaning, feature engineering, trend analysis, general visualizations of key business metrics and some final business insights.
 
 ## Features
